@@ -1,0 +1,66 @@
+
+body{
+    background-color: #68cdd5;
+    font-family: SimHei, serif;
+    font-size: 30px;
+    color: #FFF;
+}
+.box{
+    max-width: 640px;
+    width:640px;
+    margin:0 auto;
+}
+
+.head{
+    padding-left: 35px;
+}
+
+.box1{
+    max-width: 180px;
+    padding-left: 180px;
+    padding-top: 30px;
+}
+
+.logo{
+    max-height: 70px;
+    max-width: 180px;
+}
+
+.text1{
+    width: 72%;
+    padding-top: 120px;
+    margin:auto;
+    font-size: 30px;
+    color: #FFF;
+    line-height: 1.8;
+}
+.png{
+    float: left;
+    width: 150px;
+    padding-top: 15%;
+}
+
+.png1{
+    padding-left: 130px;
+}
+.png2{
+    padding-left: 210px;
+}
+.text2{
+    clear:left;
+    float: left;
+    padding-left: 80px;
+
+}
+.text3{
+    float: left;
+    padding-left: 200px;
+
+}
+
+.span1{
+     padding-left: 100px;
+}
+.span2{
+    padding-left: 200px;
+}
